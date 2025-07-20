@@ -13,6 +13,7 @@ These projects focus on **hands-on AI problem solving**, with real Python implem
 | Project | Description |
 |--------|-------------|
 | [`degrees`](./degrees) | Find the shortest chain of co-stars between two actors using **breadth-first search (BFS)** |
+| [`tictactoe`](./tictactoe) | Simple UI tictactoe game through py.tkinter with an AI using the MiniMax algorithm** |
 (more coming soon!)
 
 ---
